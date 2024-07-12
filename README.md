@@ -1,2 +1,5 @@
 # Dog-Breed-Classification
-Thesis Project 
+AN ENHANCED DEEP CONVOLUTIONAL NEURAL NETWORK ALGORITHM WITH RESIDUAL LEARNING FRAMEWORK FOR DOG BREED CLASSIFICATION
+Asares, Rosh Aubrey G.
+Dabalos, Kathleen L.
+Isleta, Ericka L.
